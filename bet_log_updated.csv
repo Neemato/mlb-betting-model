@@ -1,0 +1,4 @@
+Date,Player,Team,Opponent,Prop_Type,Line,Projection,Recommended_Bet,Odds,Model_Prob,Implied_Prob,Expected_Value,Bet_Placed,Result,Profit_Loss,Notes
+2025-05-27,John Doe,Yankees,Red Sox,Strikeouts,5.5,6.2,Over,-110,0.55,0.524,0.071,Yes,Win,90.91,Hit in 6th inning
+2025-05-27,Mike Smith,Dodgers,Giants,Hits,1.5,1.2,Under,120,0.52,0.4545,0.078,Yes,Loss,-100.0,Had 2 hits in 3rd inning
+SUMMARY,,,,,,,,,,,,2 bets,ROI: -4.55%,-9.090000000000003,Summary row
