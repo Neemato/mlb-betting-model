@@ -1,0 +1,25 @@
+{
+  "devDependencies": {
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.3",
+    "tailwindcss": "^4.1.7"
+  },
+  "name": "mlb-betting-model",
+  "version": "1.0.0",
+  "description": "A Python-based console application that scrapes live MLB player prop lines from sportsbooks, evaluates expected value (EV), and automates positive EV bets syncing to Google Sheets. Designed for bettors who want a data-driven edge.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Neemato/mlb-betting-model.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Neemato/mlb-betting-model/issues"
+  },
+  "homepage": "https://github.com/Neemato/mlb-betting-model#readme"
+}
